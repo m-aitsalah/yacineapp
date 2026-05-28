@@ -1,0 +1,21 @@
+{
+  "base_url": "https://matchs.live/api",
+  "contact_email": "support@footballapp.com",
+  "app": {
+    "active": true,
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.example.football_app"
+  },
+  "ads": {
+    "ad_status": true,
+    "admob_publisher_id": "pub-9046960874345366",
+    "admob_banner_unit_id": "ca-app-pub-9046960874345366/xx",
+    "admob_app_open_unit_id": "ca-app-pub-9046960874345366/xx",
+    "admob_interstitial_unit_id": "ca-app-pub-9046960874345366/xx",
+    "admob_native_unit_id": "ca-app-pub-9046960874345366/xx",
+    "interstitial_click_count": 15
+  },
+  "notifications": {
+    "notification_enabled": true
+  },
+  "hide_news": false
+}

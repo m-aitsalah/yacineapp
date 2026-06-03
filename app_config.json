@@ -17,5 +17,5 @@
   "notifications": {
     "notification_enabled": true
   },
-  "hide_news": true
+  "hide_news": false
 }

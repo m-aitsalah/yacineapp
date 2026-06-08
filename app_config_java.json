@@ -64,8 +64,8 @@
     "interstitial_ad_interval": 12,
     "interstitial_click_count": 12,
 
-    "native_ad_interval": 1,
-    "native_ad_index": 3,
+    "native_ad_interval": 9,
+    "native_ad_index": 9,
 
     "date_time": "2026-06-08"
   },

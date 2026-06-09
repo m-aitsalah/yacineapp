@@ -6,10 +6,10 @@
   "contact_email": "admin@yacinetv.link",
   "app": {
     "active": true,
-    "force_update": false,
+    "force_update": true,
     "min_version_code": 1,
     "update_message": "A new version of Yacine TV is available. Please update the app to continue.",
-    "redirect_url": "https://play.google.com/store/apps/details?id=com.yacinetvllc.yacinetvapp"
+    "redirect_url": "https://play.google.com/store/apps/details?id=app.yanis.tv.new"
   },
   "ads": {
     "ad_status": true,

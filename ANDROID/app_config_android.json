@@ -1,0 +1,21 @@
+{
+  "base_url": "https://matchs.live/api",
+  "contact_email": "adminyacine@gmail.com",
+  "app": {
+    "active": true,
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.yacinetvllc.yacinetvapp"
+  },
+  "ads": {
+    "ad_status": false,
+    "admob_publisher_id": "pub-9046960874345366",
+    "admob_banner_unit_id": "ca-app-pub-9046960874345366/1684214383",
+    "admob_app_open_unit_id": "ca-app-pub-9046960874345366/6377640420",
+    "admob_interstitial_unit_id": "ca-app-pub-9046960874345366/2002405439",
+    "admob_native_unit_id": "ca-app-pub-9046960874345366/7518994991",
+    "interstitial_click_count": 5
+  },
+  "notifications": {
+    "notification_enabled": true
+  },
+  "hide_news": false
+}

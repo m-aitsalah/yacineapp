@@ -18,6 +18,6 @@
     "notification_enabled": true
   },
   "hide_news": false,
-  "overrides_enabled": false
+  "overrides_enabled": true
   
 }

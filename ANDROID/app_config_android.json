@@ -6,7 +6,7 @@
     "redirect_url": "https://play.google.com/store/apps/details?id=com.yacinetvllc.yacinetvapp"
   },
   "ads": {
-    "ad_status": false,
+    "ad_status": true,
     "admob_publisher_id": "pub-5328735289575157",
     "admob_banner_unit_id": "ca-app-pub-5328735289575157/8032545018",
     "admob_app_open_unit_id": "ca-app-pub-5328735289575157/5873285536",
@@ -17,5 +17,5 @@
   "notifications": {
     "notification_enabled": true
   },
-  "hide_news": false
+  "hide_news": true
 }

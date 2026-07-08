@@ -1,6 +1,6 @@
 {
   "base_url": "https://matchs.live/api",
-  "contact_email": "ma.yacinetv@gmail.com",
+  "contact_email": "admin@yacinetv.link",
   "app": {
     "active": true,
     "redirect_url": "https://play.google.com/store/apps/details?id=com.example.football_app"

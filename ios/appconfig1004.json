@@ -12,7 +12,7 @@
     "admob_app_open_unit_id": "ca-app-pub-9046960874345366/6377640420",
     "admob_interstitial_unit_id": "ca-app-pub-9046960874345366/2002405439",
     "admob_native_unit_id": "ca-app-pub-9046960874345366/7518994991",
-    "interstitial_click_count": 5
+    "interstitial_click_count": 15
   },
   "notifications": {
     "notification_enabled": true

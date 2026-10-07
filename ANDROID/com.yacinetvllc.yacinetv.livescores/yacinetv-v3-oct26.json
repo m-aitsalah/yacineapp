@@ -6,16 +6,34 @@
     "redirect_url": "https://play.google.com/store/apps/details?id=com.yacinetvllc.yacinetv.livescores"
   },
   "ads": {
-    "ad_status": true,
-    "admob_publisher_id": "pub-xx",
-    "admob_banner_unit_id": "ca-app-pub-xx/1684214383",
-    "admob_app_open_unit_id": "ca-app-pub-xx/6377640420",
-    "admob_interstitial_unit_id": "ca-app-pub-xx/2002405439",
-    "admob_native_unit_id": "ca-app-pub-xx/7518994991",
-    "interstitial_click_count": 10
+    "ad_status": false,
+    "admob_publisher_id": "pub-3940256099942544",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
+    "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
+    "interstitial_click_count": 15,
+    "rewarded_ad_points": 10,
+    "rewarded_ad_daily_limit": 1
   },
   "notifications": {
-    "notification_enabled": true
+    "notification_enabled": true,
+    "max_favorite_teams": 6
   },
-  "hide_news": false
+  "app_tab_bar": {
+    "max_tab_items": 4,
+    "tabs": [
+      { "id": "matches",  "icon": "sports_soccer",     "hidden": false },
+      { "id": "standings","icon": "emoji_events",      "hidden": false },
+      { "id": "fanzone",  "icon": "whatshot",          "hidden": false },
+      { "id": "news",     "icon": "article",           "hidden": false },
+      { "id": "highlights", "icon": "play_circle", "hidden": false },
+      { "id": "reels", "icon": "video_library", "hidden": false },
+      { "id": "settings", "icon": "settings_outlined", "hidden": false }
+    ]
+  },
+  "overrides_enabled": true,
+  "live_polling_interval": 15,
+  "idle_polling_interval": 60
 }

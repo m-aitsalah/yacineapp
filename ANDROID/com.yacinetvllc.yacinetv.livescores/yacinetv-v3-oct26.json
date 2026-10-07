@@ -1,0 +1,21 @@
+{
+  "base_url": "https://https://magisstudio.online/api",
+  "contact_email": "ma.yacinetv@gmail.com",
+  "app": {
+    "active": true,
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.yacinetvllc.yacinetv.livescores"
+  },
+  "ads": {
+    "ad_status": true,
+    "admob_publisher_id": "pub-xx",
+    "admob_banner_unit_id": "ca-app-pub-xx/1684214383",
+    "admob_app_open_unit_id": "ca-app-pub-xx/6377640420",
+    "admob_interstitial_unit_id": "ca-app-pub-xx/2002405439",
+    "admob_native_unit_id": "ca-app-pub-xx/7518994991",
+    "interstitial_click_count": 10
+  },
+  "notifications": {
+    "notification_enabled": true
+  },
+  "hide_news": false
+}

@@ -6,7 +6,7 @@
     "redirect_url": "https://play.google.com/store/apps/details?id=com.yacinetvllc.yacinetv.livescores"
   },
   "ads": {
-    "ad_status": false,
+    "ad_status": true,
     "admob_publisher_id": "pub-3940256099942544",
     "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
     "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",

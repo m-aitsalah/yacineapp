@@ -28,8 +28,8 @@
       { "id": "standings","icon": "emoji_events",      "hidden": false },
       { "id": "fanzone",  "icon": "whatshot",          "hidden": false },
       { "id": "news",     "icon": "article",           "hidden": false },
-      { "id": "highlights", "icon": "play_circle", "hidden": false },
-      { "id": "reels", "icon": "video_library", "hidden": false },
+      { "id": "highlights", "icon": "play_circle", "hidden": true },
+      { "id": "reels", "icon": "video_library", "hidden": true },
       { "id": "settings", "icon": "settings_outlined", "hidden": false }
     ]
   },

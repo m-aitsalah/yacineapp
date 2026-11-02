@@ -1,0 +1,39 @@
+{
+  "base_url": "https://matchs.live/api",
+  "contact_email": "support@footballapp.com",
+  "app": {
+    "active": true,
+    "redirect_url": "https://play.google.com/store/apps/details?id=com.example.football_app"
+  },
+  "ads": {
+    "ad_status": true,
+    "admob_publisher_id": "pub-9046960874345366",
+    "admob_banner_unit_id": "ca-app-pub-9046960874345366/8740990986",
+    "admob_app_open_unit_id": "ca-app-pub-9046960874345366/9914737781",
+    "admob_interstitial_unit_id": "ca-app-pub-9046960874345366/8158537050",
+    "admob_native_unit_id": "ca-app-pub-9046960874345366/8772780574",
+    "admob_rewarded_unit_id": "ca-app-pub-9046960874345366/4795711772",
+    "interstitial_click_count": 5,
+    "rewarded_ad_points": 10,
+    "rewarded_ad_daily_limit": 1
+  },
+  "notifications": {
+    "notification_enabled": true,
+    "max_favorite_teams": 10000
+  },
+  "app_tab_bar": {
+    "max_tab_items": 4,
+    "tabs": [
+      { "id": "matches",  "icon": "sports_soccer",     "hidden": false },
+      { "id": "standings","icon": "emoji_events",      "hidden": false },
+      { "id": "fanzone",  "icon": "whatshot",          "hidden": false },
+      { "id": "news",     "icon": "article",           "hidden": false },
+      { "id": "highlights", "icon": "play_circle", "hidden": true },
+      { "id": "reels", "icon": "video_library", "hidden": true },
+      { "id": "settings", "icon": "settings_outlined", "hidden": false }
+    ]
+  },
+  "overrides_enabled": true,
+  "live_polling_interval": 15,
+  "idle_polling_interval": 60
+}

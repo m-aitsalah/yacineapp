@@ -1,6 +1,7 @@
 {
   "base_url": "https://matchs.live/api",
-  "contact_email": "support@footballapp.com",
+  "fallback_base_url": "https://magisstudio.online/api",
+  "contact_email": "ma.yacinetv@gmail.com",
   "app": {
     "active": true,
     "redirect_url": "https://play.google.com/store/apps/details?id=com.yacinetvllc.yacinetv.livescores"
@@ -18,8 +19,7 @@
     "rewarded_ad_daily_limit": 1
   },
   "notifications": {
-    "notification_enabled": true,
-    "max_favorite_teams": 10000
+    "notification_enabled": true
   },
   "app_tab_bar": {
     "max_tab_items": 4,
@@ -34,6 +34,9 @@
     ]
   },
   "overrides_enabled": true,
-  "live_polling_interval": 15,
-  "idle_polling_interval": 60
+  "live_polling_interval": 10,
+  "idle_polling_interval": 60,
+  "welcome_bonus_coins": 10,
+  "prediction_winner_multiplier": 2,
+  "prediction_exact_multiplier": 10
 }
